@@ -20,10 +20,11 @@ Imported buildings have the following `building=` tags populated:
 | apartments  | 12  |
 | church  | 2  |
 | commercial  | 5  |
+| garage  | 1,129  |
 | house  | 3,016  |
 | residential  | 23  |
 | retail  | 7  |
-| shed  | 1,709  |
+| shed  | 580  |
 | static_caravan  | 146  |
 | warehouse  | 2  |
 | yes  | 1,153  |
